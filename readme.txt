@@ -1,4 +1,4 @@
 # gitskills
 learn git skills
 Creating a new branch is quick and simple
-git merge with fast forword
+git merge with Fast Forword
